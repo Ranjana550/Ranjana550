@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ranjana Burange.
-- 👀 ICurrently pursuing a B.Tech degree with a major in Computer from Vishwakarma Institute of Technology, Pune. 
-- 👀 Skilled in C++, frontend development, data structures, algorithms, team work and management.
+👋 Hi, I’m Ranjana Burange.
+👀 ICurrently pursuing a B.Tech degree with a major in Computer from Vishwakarma Institute of Technology, Pune. 
+👀 Skilled in C++, frontend development, data structures, algorithms, team work and management.
 
 
 <!---
